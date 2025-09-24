@@ -4,18 +4,6 @@ Skip to content
 Navigation Menu
 Mal-theone
 Atomic-Red-Team-Project-
-
-Type / to search
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Atomic-Red-Team-Project-
 # Atomic Red Team Azure Implementation Guide
 
 ## Table of Contents
