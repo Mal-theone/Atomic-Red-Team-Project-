@@ -385,4 +385,3 @@ Get-ExecutionPolicy -List
 ---
 
 **Note**: This testing environment is designed for security research and detection validation. Always ensure proper authorization before conducting any security testing activities.
-New File at / · Mal-theone/Atomic-Red-Team-Project-
